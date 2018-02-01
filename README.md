@@ -1,1 +1,0 @@
-# shinganova-cms-test.github.io
